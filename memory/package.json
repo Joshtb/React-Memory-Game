@@ -2,7 +2,7 @@
   "name": "memory",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://joshtb.github.io/react-memory-game",
+  "homepage": "https://joshtb.github.io/React-Memory-Game/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.5.2",

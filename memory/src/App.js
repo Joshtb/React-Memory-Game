@@ -87,7 +87,7 @@ handleClick = id => {
     return (
       <div>
       <Navbar
-      title="React Clicky Game"
+      title="One Piece Clicky Game"
       topScore={this.state.topScore}
       score={this.state.currentScore}
       correctIncorrect={this.state.correctIncorrect}
