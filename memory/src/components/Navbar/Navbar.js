@@ -19,6 +19,7 @@ const Navbar = props => (
      Current: {props.newScore}
         </li>
         <li className="nav-item" >{props.correctIncorrect}</li>
+        <li>Click on an image to earn points, but don't click on any more than once! </li>
         </ul>
             </div>
             </nav>

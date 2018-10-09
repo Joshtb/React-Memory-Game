@@ -1,63 +1,63 @@
 [
             {
             "id":1,
-            "image":"../../public/assets/imgs/ace.jpg",
+            "image":"/assets/imgs/ace.jpg",
             "clicked":false
 
             },
             {
                 "id":2,
-                "image":"../../public/assets/imgs/brook.jpg",
+                "image":"/assets/imgs/brook.jpg",
                 "clicked":false
             },
             {
                 "id":3,
-                "image":"../../public/assets/imgs/chopper.png",
+                "image":"/assets/imgs/chopper.png",
                 "clicked":false
             },
             {
                 "id":4,
-                "image":"../../public/assets/imgs/frankie.jpg",
+                "image":"/assets/imgs/frankie.jpg",
                 "clicked":false
             },
             {
                 "id":5,
-                "image":"../../public/assets/imgs/luffy.png",
+                "image":"/assets/imgs/luffy.png",
                 "clicked":false
             },
             {
                 "id":6,
-                "image":"../../public/assets/imgs/nami.jpg",
+                "image":"/assets/imgs/nami.jpg",
                 "clicked":false
             },
             {
                 "id":7,
-                "image":"../../public/assets/imgs/robin.jpg",
+                "image":"/assets/imgs/robin.jpg",
                 "clicked":false
             },
             {
                 "id":8,
-                "image":"../../public/assets/imgs/sanji.jpg",
+                "image":"/assets/imgs/sanji.jpg",
                 "clicked":false
             },
             {
                 "id":9,
-                "image":"../../public/assets/imgs/shanks.jpg",
+                "image":"/assets/imgs/shanks.jpg",
                 "clicked":false
             },
             {
                 "id":10,
-                "image":"../../public/assets/imgs/trafalgar.jpg",
+                "image":"/assets/imgs/trafalgar.jpg",
                 "clicked":false
             },
             {
                 "id":11,
-                "image":"../../public/assets/imgs/ussop.jpg",
+                "image":"/assets/imgs/ussop.jpg",
                 "clicked":false
             },
             {
                 "id":12,
-               "image":"../../public/assets/imgs/zoro.jpg",
+               "image":"/assets/imgs/zoro.jpg",
                "clicked":false
             }    
         ]    
